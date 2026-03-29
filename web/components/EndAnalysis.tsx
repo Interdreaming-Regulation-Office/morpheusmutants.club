@@ -26,7 +26,7 @@ export default function EndAnalysis() {
         </ul>
         <p>
             Category 1 Violations (assisting restricted activity):</p>
-        <p>User: SymbioticSemantic1077 aka Percy Spent, birthdate 6/4/2019
+        <p>User: SymbioticSemantic1077 aka Selene Moondragon aka Paula Creek, birthdate 6/4/2019
             Action: Assigned 40 Community Reperation Work Units.
         </p>
         <p>Users with insufficient vocab identifiability:</p>
@@ -36,11 +36,11 @@ export default function EndAnalysis() {
         </ul>
         <p>Category 2 Violations (possession of restricted equipment)</p>
         <p>User: SpartanSpecialSauce aka Marshall Reed, birthdate 25/9/2027</p>
-        <p>User: user1009 aka Selene Moondragon aka Paula Creek, birthdate 31/3/2017</p>
+        <p>User: user1009 aka Percy Spent, birthdate 31/3/2017</p>
         <p>User: REMster aka Taigh O'Rourke, birthdate 7/7/2022</p>
         <p>Users with insufficient vocab identifiability:</p>
         <ul>
-            <li>Anon308</li>
+            <li>Anon398</li>
         </ul>
         <p>Category 3 Violations (use of restricted equipment; sale of restricted equipment)</p>
         <p>User: DaDreamDude aka DaDreamDude2 aka NotDaDreamDude aka Steven Reith, birthdate 13/8/2024
